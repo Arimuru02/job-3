@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 m=int(input("Ведите номер месяца: "))
 if m == 12 or m == 1 or m == 2:
     print("Это зима")
