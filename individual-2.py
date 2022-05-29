@@ -1,5 +1,7 @@
-import math
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+import math
 
 a = float(input("Введите число а: "))
 x = int(input("Введите число х: "))
